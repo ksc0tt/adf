@@ -1,0 +1,9 @@
+{
+	"name": "cloverdx-kscott-copytable",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9272fec8-44d4-416d-b24f-7e74ac90e069",
+		"tenantId": "b4a2e5de-a06c-4c53-bf18-7f9c4afb9859"
+	}
+}
