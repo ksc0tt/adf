@@ -10,6 +10,12 @@
 		},
 		"AzureSqlDatabase_Target_connectionString": {
 			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureSQLTarget_Product_connectionString": {
+			"value": ""
 		}
 	}
 }
