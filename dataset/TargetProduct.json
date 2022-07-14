@@ -1,0 +1,16 @@
+{
+	"name": "TargetProduct",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase_Target",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "SalesLT",
+			"table": "Product"
+		}
+	}
+}
